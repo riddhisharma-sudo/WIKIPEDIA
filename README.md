@@ -24,7 +24,6 @@ This project is a fantastic digital encyclopedia that allows users to explore an
 - Visiting `/wiki/TITLE` renders the contents of the encyclopedia entry.
 - If an entry doesn't exist, a user-friendly error page is presented.
 
-![Entry Page](/images/Edit page.PNG)
 
 
 ### Index Page
