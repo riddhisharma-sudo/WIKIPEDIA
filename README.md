@@ -48,6 +48,8 @@ This project is a fantastic digital encyclopedia that allows users to explore an
 - The textarea is pre-populated with the existing content.
 - Clicking save redirects back to the entry’s page.
 
+  ![Edit page](https://github.com/riddhisharma-sudo/WIKIPEDIA/assets/119350954/18789407-4470-4cfc-b0a5-5cbc26a30989)
+
 ### Random Page
 
 - Clicking "Random Page" takes users to a random encyclopedia entry for a serendipitous learning experience.
