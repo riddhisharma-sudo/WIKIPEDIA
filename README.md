@@ -24,11 +24,14 @@ This project is a fantastic digital encyclopedia that allows users to explore an
 - Visiting `/wiki/TITLE` renders the contents of the encyclopedia entry.
 - If an entry doesn't exist, a user-friendly error page is presented.
 
+![Entry page](https://github.com/riddhisharma-sudo/WIKIPEDIA/assets/119350954/80fd9d8f-14d2-4711-90cf-3d9fff5c647f)
 
 
 ### Index Page
 
 - Updated `index.html` enables users to click on entry names and be taken directly to the corresponding entry page.
+  
+![Index Page](https://github.com/riddhisharma-sudo/WIKIPEDIA/assets/119350954/74ba86a8-32e2-437c-bae5-f8d465e7862c)
 
 ### Search
 
@@ -36,11 +39,17 @@ This project is a fantastic digital encyclopedia that allows users to explore an
 - If the query matches an entry, the user is redirected to that entry’s page.
 - If no direct match, a search results page is shown with entries containing the query as a substring.
 
+![Search](https://github.com/riddhisharma-sudo/WIKIPEDIA/assets/119350954/881bee34-4e9e-4b50-97b8-5ca2489d3098)
+
+
 ### New Page
 
 - Clicking "Create New Page" allows users to create a new encyclopedia entry.
 - Users enter a title and Markdown content in a textarea.
 - Clicking the save button stores the new entry. If the title exists, an error message is shown.
+
+![New page](https://github.com/riddhisharma-sudo/WIKIPEDIA/assets/119350954/e6793f3c-280e-447c-8b42-13de2a4cd1bd)
+
 
 ### Edit Page
 
@@ -48,11 +57,13 @@ This project is a fantastic digital encyclopedia that allows users to explore an
 - The textarea is pre-populated with the existing content.
 - Clicking save redirects back to the entry’s page.
 
-  ![Edit page](https://github.com/riddhisharma-sudo/WIKIPEDIA/assets/119350954/18789407-4470-4cfc-b0a5-5cbc26a30989)
+ ![Edit page](https://github.com/riddhisharma-sudo/WIKIPEDIA/assets/119350954/18789407-4470-4cfc-b0a5-5cbc26a30989)
 
 ### Random Page
 
 - Clicking "Random Page" takes users to a random encyclopedia entry for a serendipitous learning experience.
+
+![Random Page](https://github.com/riddhisharma-sudo/WIKIPEDIA/assets/119350954/f72090ac-c2df-4eb9-99ae-932605a82c9c)
 
 ## Usage
 
