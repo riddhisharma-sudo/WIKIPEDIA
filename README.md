@@ -30,7 +30,7 @@ This project is a fantastic digital encyclopedia that allows users to explore an
 - Visiting `/wiki/TITLE` renders the contents of the encyclopedia entry.
 - If an entry doesn't exist, a user-friendly error page is presented.
 
- ![Edit page](https://github.com/riddhisharma-sudo/WIKIPEDIA/assets/119350954/18789407-4470-4cfc-b0a5-5cbc26a30989)
+ ![Edit page](https://github.com/riddhisharma-sudo/WIKIPEDIA/assets/119350954/316b82cc-bf97-4d45-8f9b-8e512bbd8ff1)
 
 
 
