@@ -19,6 +19,12 @@ This project is a fantastic digital encyclopedia that allows users to explore an
 
 ## Features
 
+### Index Page
+
+- Updated `index.html` enables users to click on entry names and be taken directly to the corresponding entry page.
+  
+![Index Page](https://github.com/riddhisharma-sudo/WIKIPEDIA/assets/119350954/74ba86a8-32e2-437c-bae5-f8d465e7862c)
+
 ### Entry Page
 
 - Visiting `/wiki/TITLE` renders the contents of the encyclopedia entry.
@@ -27,11 +33,6 @@ This project is a fantastic digital encyclopedia that allows users to explore an
  ![Edit page](https://github.com/riddhisharma-sudo/WIKIPEDIA/assets/119350954/18789407-4470-4cfc-b0a5-5cbc26a30989)
 
 
-### Index Page
-
-- Updated `index.html` enables users to click on entry names and be taken directly to the corresponding entry page.
-  
-![Index Page](https://github.com/riddhisharma-sudo/WIKIPEDIA/assets/119350954/74ba86a8-32e2-437c-bae5-f8d465e7862c)
 
 ### Search
 
@@ -57,7 +58,6 @@ This project is a fantastic digital encyclopedia that allows users to explore an
 - The textarea is pre-populated with the existing content.
 - Clicking save redirects back to the entry’s page.
 ![Entry page](https://github.com/riddhisharma-sudo/WIKIPEDIA/assets/119350954/80fd9d8f-14d2-4711-90cf-3d9fff5c647f)
- ![Edit page](https://github.com/riddhisharma-sudo/WIKIPEDIA/assets/119350954/18789407-4470-4cfc-b0a5-5cbc26a30989)
 
 ### Random Page
 
