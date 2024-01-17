@@ -66,4 +66,4 @@ Dive into the vast world of knowledge with our "Random Page" feature. You never 
 
 ---
 
-Feel free to customize this README further based on your project's specifics. Add badges, screenshots, or any other elements that showcase your project in the best light. Happy coding! 🌟
+Happy coding! 🌟
